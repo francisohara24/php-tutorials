@@ -1,5 +1,5 @@
 # php-tutorials
-Scripts from course I took on introduction to PHP for back-end development.
+Scripts from course on introduction to PHP for web development.
 
 ### Capstone Projects
 1. **Login Page**:  
